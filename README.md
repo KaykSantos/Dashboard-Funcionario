@@ -1,4 +1,4 @@
-# Dashboard de funcionário
+# Dashboard de funcionário WFA
 Dashboard de um funcionário
 <ul>
   <li>Opções de cadastro</li>
